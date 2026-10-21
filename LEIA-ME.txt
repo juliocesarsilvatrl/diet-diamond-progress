@@ -1,0 +1,25 @@
+DIET DIAMOND PROGRESS — pacote corrigido para GitHub Pages
+
+PUBLICAÇÃO
+1. Extraia este ZIP.
+2. No repositório GitHub, envie/substitua os arquivos da pasta, mantendo a estrutura.
+3. Confirme que index.html, manifest.webmanifest e sw.js ficam na raiz do repositório.
+4. Confirme que a pasta assets fica na raiz e contém:
+   - apple-touch-icon.png
+   - icon-192.png
+   - icon-512.png
+   - diet-diamond-progress-official.png
+5. Faça Commit changes e espere o GitHub Pages publicar.
+6. Abra o site e faça uma recarga forçada. No computador: Ctrl+F5.
+7. Se o ícone da tela inicial do iPhone ainda for antigo, remova o atalho antigo da Tela de Início, abra o site no Safari e use Compartilhar > Adicionar à Tela de Início novamente.
+
+TESTE DE IMAGEM
+Abra diretamente no navegador:
+https://SEU-USUARIO.github.io/diet-diamond-progress/assets/diet-diamond-progress-official.png
+Substitua SEU-USUARIO pelo usuário do GitHub. Se não abrir a imagem, os arquivos da pasta assets não foram enviados para o local correto ou o nome do repositório/URL está diferente.
+
+IMPORTANTE
+- O index.html deve estar na raiz da publicação, não dentro de uma segunda pasta.
+- Os nomes diferenciam maiúsculas/minúsculas no GitHub Pages.
+- Este pacote incrementa a versão do cache offline para que o navegador possa buscar os arquivos atualizados.
+- Dados pessoais ficam no armazenamento local do navegador; não publique backups com dados pessoais no repositório.
