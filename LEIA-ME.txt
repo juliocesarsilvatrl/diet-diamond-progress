@@ -1,0 +1,17 @@
+DIET DIAMOND PROGRESS — versão com ícone oficial
+
+O ZIP inclui o aplicativo, a imagem oficial de marca, ícones de 192/512 px para instalação e ícone Apple Touch, manifest e cache offline.
+
+TESTAR NO WINDOWS
+1. Extraia todos os arquivos mantendo a estrutura das pastas.
+2. Abra index.html no Chrome ou Edge. O app funciona para testar, mas a instalação PWA/offline depende de HTTPS ou localhost.
+
+INSTALAR NO IPHONE
+1. Publique a pasta inteira em um host estático HTTPS (por exemplo, GitHub Pages). Não envie só o index.html: mantenha assets/, manifest.webmanifest e sw.js junto.
+2. Abra o endereço no Safari do iPhone.
+3. Compartilhar > Adicionar à Tela de Início. O iOS usará assets/apple-touch-icon.png para o ícone.
+
+DADOS E PRIVACIDADE
+Os registros ficam no armazenamento local do navegador. Não há conta, sincronização automática nem servidor de dados. Dados do computador e iPhone são separados. Exporte backups manualmente e guarde-os com segurança.
+
+O aplicativo é um diário pessoal, não fornece recomendações médicas nem orienta alteração de dose.
